@@ -1,6 +1,6 @@
 
 #  Analisador de Log do CHKDSK 🔎
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg)
 
 Um script simples e prático em PowerShell para analisar arquivos de log gerados pelo utilitário `CHKDSK` do Windows e apresentar um resumo claro e objetivo.
@@ -41,4 +41,4 @@ Os logs do `CHKDSK` podem ser longos e um pouco confusos. Este script lê o arqu
 Sinta-se à vontade para abrir uma "issue" para relatar bugs ou sugerir novas funcionalidades. Pull requests são sempre bem-vindos!
 
 ## Licença
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
